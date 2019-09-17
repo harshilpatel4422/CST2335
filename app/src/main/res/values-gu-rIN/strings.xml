@@ -2,5 +2,14 @@
 <resources>
     <string name="app_name">Android લેબ્સ</string>
     <string name="hello_message">હેલો વર્લ્ડ!</string>
-    <string name="ButtonText">હું એક બટન છું</string>
+    <string name="GUI">મારી જી.યુ.આઈ.</string>
+    <string name="ButtonText">અહીં ક્લિક કરો</string>
+    <string name="here_widgets">મારી જી.યુ.આઈ.</string>
+
+    <string name="Check_out">આ તપાસો!</string>
+    <string name="description">મારી જી.યુ.આઈ.</string>
+    <string name="Switch_on_off">સ્વીચ ચાલુ / બંધ</string>
+    <string name="hint_">અહી લખો</string>
+
 </resources>
+
